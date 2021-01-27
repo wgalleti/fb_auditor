@@ -1,0 +1,7 @@
+DATABASE_DATA=127.0.0.1:path_db_data
+USER_DATA=sysdba
+PASS_DATA=masterkey
+
+DATABASE_LOG=127.0.0.1:path_db_log
+USER_LOG=sysdba
+PASS_LOG=masterkey
